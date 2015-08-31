@@ -1,0 +1,5 @@
+/Users/yixinsun/AndroidStudioProjects/Stuff/app/build/intermediates/classes/debug
+/Users/yixinsun/AndroidStudioProjects/Stuff/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-28205b4106ca53cd968b167bc59c4334600b46b3.jar
+/Users/yixinsun/AndroidStudioProjects/Stuff/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b8bb09453876ca5894edb673c5ff654f4e948367.jar
+/Users/yixinsun/AndroidStudioProjects/Stuff/app/build/intermediates/pre-dexed/debug/classes-0cc27c907178b139864565104d06ba5fe8389dc4.jar
+/Users/yixinsun/AndroidStudioProjects/Stuff/app/build/intermediates/pre-dexed/debug/classes-a6d7290e76c7701262baa644acd439787e0db066.jar

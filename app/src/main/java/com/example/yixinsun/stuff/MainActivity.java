@@ -14,19 +14,15 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button mybutton = (Button)findViewById(R.id.button);
         mybutton.setOnClickListener(this);
 
     }
-
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-
-
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
@@ -43,7 +39,6 @@ public class MainActivity extends Activity implements View.OnClickListener{
         if (id == R.id.action_settings) {
             return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 
